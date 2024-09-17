@@ -1,5 +1,7 @@
 # 🌸 Welcome to Naveen Singh's(ナヴィーン・シン) Code Dojo 道場
 
+<img src="./gifs/giphy (4).webp" width="300" alt="Alt text for the GIF">
+
 ```ascii
                                                                 ,\
                                                                /.\\
@@ -42,6 +44,8 @@
 I'm Naveen Singh(ナヴィーン・シン), a full-stack samurai 侍 on an endless quest for knowledge and innovation. From slicing through data pipelines to crafting highly scalable micro-servies, I've honed my skills across the vast landscape of technology. Let's embark on this coding journey together!
 
 ---
+
+<img src="./gifs/giphy (3).webp" width="300" alt="Coding gif">
 
 ## 🛠️ My Tech Arsenal
 
